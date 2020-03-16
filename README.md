@@ -27,6 +27,8 @@ Now that the Python Virtual Enviornment has been created you can activate it by 
 
     $ \env\Scripts\activate.bat
 
+# Installing Dependencies: 
+
 Now that we are in the Python Virtual Enviornment we can install all the necessary dependencies by entering the following command:
 
     $ pip3 install flask sqlite

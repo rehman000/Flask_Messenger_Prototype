@@ -26,6 +26,8 @@ Now that the Python Virtual Enviornment has been created you can activate it by 
 (For Windows Systems):
 
     $ \env\Scripts\activate.bat
+    
+# Running the Application:
 
 Now that we are in the Python Virtual Enviornment we can install all the necessary dependencies by entering the following command:
 
